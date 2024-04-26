@@ -7,6 +7,7 @@ const add = (a, b) => {
 
 console.log(add(a, b));
 
-const sub = (a, b) => a - b;
+const sub = (a, c) => a - c;
 
 console.log(sub(a, b));
+
