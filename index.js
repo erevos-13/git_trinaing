@@ -1,4 +1,7 @@
-console.log("orfeas testing git");
+function test() {
+  console.log("Hello World");
+}
+
 const a = 2;
 const b = 3;
 const add = (a, b) => {
